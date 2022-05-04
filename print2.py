@@ -1,1 +1,2 @@
-print(5524)
+print(55249)
+print(1)
